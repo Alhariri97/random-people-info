@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    position: relative;
+    width: 85%;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+}
+.reload{
+    margin-right: -60%;
+    margin-bottom: 20px;
+    width: 20vh;
+    height: 5vh;
+}
+#name, #city ,#from{
+    margin-left: 20px;
+}
+#from{
+    margin-bottom: 50px;
+}
+#img{
+    margin: auto;
+    display: block;
+    width: 30%;
+    border-radius: 5%;
+}
