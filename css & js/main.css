@@ -15,6 +15,7 @@
     margin-bottom: 20px;
     width: 20vh;
     height: 5vh;
+    cursor: pointer ;
 }
 #name, #city ,#from{
     margin-left: 20px;
